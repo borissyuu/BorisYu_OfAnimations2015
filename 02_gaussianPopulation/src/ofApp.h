@@ -3,7 +3,7 @@
 #include "ofMain.h"
 #include "population.h"
 
-#define NUMPOP 10
+#define NUMPOP 1000
 
 class ofApp : public ofBaseApp{
 

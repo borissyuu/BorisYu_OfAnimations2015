@@ -12,7 +12,7 @@ void walker::setup() {
     
     pos.set(ofGetWindowSize()/2);
     
-    colorScheme.loadImage("naruto.png");
+    colorScheme.loadImage("rainbow.jpg");
 }
 
 void walker::update() {
